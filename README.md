@@ -1,7 +1,7 @@
 ### artisan229
 
 
-<img src="https://img.shields.io/badge/tensorflow-#FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 
 <!--
 **artisan229/artisan229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
