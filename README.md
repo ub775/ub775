@@ -1,12 +1,10 @@
 ### artisan229
 
 
-<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
