@@ -1,7 +1,7 @@
 ### artisan229
 
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
 
