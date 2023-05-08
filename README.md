@@ -12,12 +12,9 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 <!-- Infra tech -->
-<div align=center>
-  <div>
 ### Infra
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-</div>
-</div>  
+
   
 <!-- PS -->
 ### PS
